@@ -1,0 +1,16 @@
+# BerkleyCore Loss Analysis Platform - Streamlit Edition
+# Python 3.9+ required
+
+# Core framework
+streamlit>=1.28.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # Excel file support
+
+# Visualization
+plotly>=5.18.0
+
+# Optional: For advanced Excel features
+xlrd>=2.0.0  # Legacy .xls support
